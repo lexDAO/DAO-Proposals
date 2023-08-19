@@ -1,0 +1,137 @@
+Author: Tertius
+Proposing entity: LexBlock
+Project Manager: Brent
+Treasury Allocation: $2,000
+Project Start: Immediate
+Project Completion: October 1, 2023
+
+# Development of Member Directory for LexDAO
+
+
+## Narrative
+
+LexDAO has expressed the need for a comprehensive and secure member directory to replace its former public directory that was taken down. More specifically, LexDAO has indicated that some of its membership received significant benefit from being found by prospective clients on the directory. This proposal is tailored to the specific requirements discussed in meetings with members and the LexDAO team, particularly in regards to public posting of email addresses and data privacy compliance. This proposal is for a total of $2,000 in USDC, payable in two installments, the first of which would be upon finalization of LexBlock entity formation and EIN acquisition. There is no ongoing cost to be paid to LexBlock for the maintenance and upkeep, and the project is designed for simple internal management with minimal hosting cost and upkeep. The project lead is Brent discord:@yellowsunshine, who will be managing LexBlock’s effort and coordinating development and deployment with the Operator, Assistant Operator, and involved members. 
+
+LexBlock is a LexDAO-inspired legal engineering and consulting cooperative, currently finalizing its governance, design, and legal entity, to be open to membership.
+
+The project will be built with flexibility and continuity in mind, designed to be easily updated, managed, or transitioned via multiple administrative accounts, readable code, and usage of ubiquitous programming languages.
+
+
+#### Key elements of the updated directory:
+
+##### Streamlined User Experience:
+
+- Searchable member profiles with pagination
+- Detailed member information pages
+- SEO-friendly URLs, titles, meta tags, and H1 headings for optimal discoverability
+- Seamless integration of member names/nicknames, links, and professional focus for personalized touches
+
+
+##### Privacy Protection & Security:
+
+- Dedicated contact forms to keep email addresses confidential
+- Self-hosted Captcha for contact forms, bypassing the challenges in China
+- Security features specifically designed to reduce risk (details available upon request)
+
+
+##### Robust Administrative Control:
+
+- An admin panel to update member information effortlessly
+- Multiple administrators functionality
+- Control over directory listing, link or display of NFT/cred/avatars, contact forms, discord ID, links
+
+
+##### Flexibility & Responsiveness:
+
+- A configuration file to make system-wide changes, from aesthetics to functionality
+- Responsive UI for both mobile and desktop
+- Smooth UX handling, ensuring a glitch-free experience
+
+
+##### Deployment & Support:
+
+- Creation of tables in LexDAO’s Database
+- Setup of secure mail processing (optional third party mail processing for antispam)
+- Deployment to LexDAO’s production environments
+- 30-day support post-deployment for seamless transition and ongoing relationship between LexDAO and LexBlock
+
+
+#### Demonstration: This is NOT the final completed product
+
+1. [Directory listing](https://www.brentrussell.com/projects/lexdao-member-directory/)
+2. [Example Member profile link with all member options enabled & ENS Avatar](https://brentrussell.com/projects/lexdao-member-directory/member/brentrusssell-5)
+3. [Example Member profile with all member options disabled ](https://brentrussell.com/projects/lexdao-member-directory/member/isabellayulieth-11)
+
+
+## Assumptions:
+
+1. LexBlock will provide development server environments at their own cost. LexBlock makes no claim to provide any production resources.
+2. LexDAO will provide reasonable access to current member directory database and back end systems to facilitate development, testing, and deployment of completed project to production systems.
+3. LexDAO will host all production code and databases entirely within their infrastructure at LexDAO’s own cost using LexDAO’s own resources. 
+4. LexDAO has a Linux environment and MySQL database already hosted at siteground and can provide credentials for installation.
+5. Siteground is able to enable Apache2’s URL\_REWRITE module for SEO URLs. 
+
+
+## Deliverables and Timeline
+
+## Stage 1 - Investigation and Development and Database Schema
+
+**Timeline:** _Starting August 14th, 2023 and lasting approximately \_\_5\_\_ business days after the Effective Date on Consulting Services Agreement._
+
+**Goal:** Research LexDAO’s current data storage and management systems. Develop the member directory, member details page, intake form, and directory admin panel. The backend will use php, and MySQL. The front end will use jQuery, Datatables, jquery, Bootstrap, HTML5, and CSS. These pages should resemble the following example mockups:
+
+**Member Directory:**
+
+[![](https://lh4.googleusercontent.com/NGx7-tZLim7tqA4Lw8-fuWPRs41aOXKPC7tkF4uaMiSCi8qI_wYfwriyLFWgO3vE3eP5phYK1B1u6Q7enskak8HYVSGTVkEX0Q0VyOJz1zxqXKmsx5KoJF8EZGXpgwsGgYVQDQieqhDWiFsaux7t1OY)](https://brentrussell.com/projects/lexdao-member-directory/)
+
+**Member Details Page:**
+
+[View live version here](https://brentrussell.com/projects/lexdao-member-directory/member/brentrusssell-5)
+
+![](https://lh3.googleusercontent.com/wSb8YvWoBKVAW7nHVaTFPOW-zkH9qgS8dH22pOoL-udSzod9ZqRc0NkRqv8tq-2xFwBrsoiv7l11eSLKum8bF82PTYqEOVNlYOgsCwN-rZyX6MLuLX3AUlF-WdW3FqDREE4ZrEK-NOC_jnfpCnNyW7o)
+
+**Administration Pages:**
+
+Security features will not be publicized due to obvious reasons however there will be measures taken to help secure the platform from attacks. Full information has been communicated to the current operator and assistant operator.
+
+![](https://lh5.googleusercontent.com/FSXjjMw4AD-6loUZ45SYXEpQIlZBvqlnXjwKX8OrFIeO5UxN61Jdws2kr9mTDZ1DfTevVjotl0LuMQS7Tq7Z0qXZx7kV3lq5cPOq7U0zsq3_jlDsyXl6wtsBqJ38ozd-RpGLKqjs7Kck3XNa7fcy4nI)
+
+**Onboarding Page:**
+
+No development has started on the onboarding page and is waiting for vote approval. 
+
+These are only mockups. The finished product will include input from the operator and Assistant operator before deployment to ensure LexDAO has a fully functional membership directory. Thus far, development has been made in a way where an admin may make changes to a configuration file to changes many colors as they see fit.
+
+
+## Stage 2 - Deployment
+
+**Timeline_:_** _Starting August 19th 2023 and lasting approximately  \_\_2\_\_ business days after the completion, to the satisfaction of the parties, of Stage 1._ 
+
+**Goal:** Membership system will be deployed to LexDAO’s environment without any downtime. This includes the creation of database schemas and installation of any third party software other than the core system itself e.g Linux, Apache, php, Mysql. Additionally, sendgrid will be used for sending email from the system. This will require some additions to DNS for successful non spam delivery which can be performed by LexBlock or a LexDAO administrator.
+
+
+## Stage 3 - Support
+
+**Timeline:** Starting August 21st and lasting _\_\_30\_\_ days after the completion of stage 2 (October 21st, 2023), LexBlock will provide support services which shall be limited to the following:_ 
+
+- _Explanation of code structure, configuration, and database structure to LexDAO operator and LexDAO assistant operator._
+- _Correction of code LexBlock has created or database errors which prohibits any of the functionality described in the Project Overview section of this document._
+
+**Goal:** Provide LexDAO with support for any errors that may not have been found in the testing or deployment phases and provide LexDAO with the means to confidently set configuration options and seamlessly communicate its intricacies to any future developers.      
+
+
+# 3. Payment Terms
+
+## Pricing
+
+Upon Completion of Stage 1 in Deliverables and Timeline $1000 USDC or will be delivered
+
+Upon Completion of Stage 2 in Deliverables and Timeline $1000 USDC will be delivered
+
+- All payments due shall be provided to LexBlock
+
+
+## Additional Expenses
+
+- _LexBlock will be reimbursed only for expenses that are expressly provided for in a Statement of Work or that have been approved in advance in writing by LexDAO, provided LexBlock has furnished such documentation for authorized expenses as LexDAO may reasonably request.  Payment of LexBlock’s fees and expenses will be in accordance with terms and conditions set forth in the applicable Statement of Work.  Upon termination of this Agreement for any reason, LexBlock will be paid fees on the basis stated in the Statement of Work(s) for work which has been completed and additional expenses (as defined below) which have been approved by the LexDAO._
+- _Additional expenses are those things considered for the performance of the service or completion of the deliverable, but which are not directly associated with the work performed, including but not limited to travel costs, hosting fees for websites, and other items necessary for the completion of the SoW\._ 
