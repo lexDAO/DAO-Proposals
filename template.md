@@ -1,12 +1,27 @@
-# Summary
-**Author**: @alpha
+# Executive Summary
+<!-- as per gitbook [page](https://gitbook.lexdao.net/untitled/grants-committee-charter/grant-proposals) -->
 
-**Proposing entity**: @beta
+<!-- these are not necessarily exclusive -->
+[ ] Reimburse (💵/💶 to wallet 0xCa1f) - listing amounts/receipts already paid
 
-**Treasury Allocation**: **$**<TBA>$ | **€**<TBA>€ | **₹**<TBA>₹ 
-<!-- Delete inapplicable cuurrency unit -->
+[ ] Request () - usually tokens/resources but grants may add conditions (eg escrow)
 
-[Project](https://github.com/orgs/lexDAO/projects?query=is%3Aopen) Manager: @gamma
+[ ] Raid () - for complex projects, need link to github [repo](https://github.com/orgs/lexDAO/projects?query=is%3Aopen)
+<!-- for non-raids you can ignore the details and just have summary lines -->
+
+<details>
+<summary>Tags</summary>
+Details
+</details>
+
+- Seeker (@member)
+- ~~Sponsor~~ (@committee)
+- ~~Supervisor~~ (@mentor)
+- ~~0xSplits~~ - link to smart contract
+<!-- remove the ~~ if any of the options apply, supervisor for (l)externs -->
+
+----
+[Project] Manager: @gamma
 
 - [ ] Start: Immediate | {date}
 - [x] <TBC>: ...
