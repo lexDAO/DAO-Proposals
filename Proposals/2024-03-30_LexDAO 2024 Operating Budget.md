@@ -12,11 +12,9 @@ Tags:
 # Introduction
 As of March 2024, the stream of Optimism tokens has begun flowing to a LexDAO authorized wallet, controlled by the Operating Committee (OC).  We have been awarded approximately 79000 wrapped Optimism tokens which will be sent via streaming deposits daily for 90 days.  
 
-At the current value of Optimism (~$3.65), the expected USD value of this Grant should amount to about $290K.  This is subject to change based on the market price of Optimism.
+At the current value of Optimism **(~$3.65)**, the expected USD value of this Grant should amount to about **$290K**.  *This is subject to change based on the market price of Optimism.*  With what we have allocated here there should be a **remaining balance** of approximately **$151,000** which will be managed with separate future proposals.
 
-To allow for the DAO to operate effectively, the OC has begun the process of allocating money toward the primary needs of the DAO.  Below is our breakdown of costs expected for a 6 month period.  We expect to re-evaluate our budget for the second half in May of 2024 for approval by June 30 2024.
-
-
+To allow for the DAO to operate effectively, the OC has put forth a proposal designed to manage the primary needs of the DAO.  Below is our breakdown of costs expected for a 6 month period.  We expect to re-evaluate our budget for 2H 2024 in May of 2024 for approval by June 30 2024.
 
 # Budget Proposal
 This budget is intended to be retroactive to January of 2024.
@@ -32,7 +30,6 @@ This budget is intended to be retroactive to January of 2024.
 | Operating Committee Tech Budget    | $1,200   |
 | Accounting Fees                    | $600     |
 | Miscellaneous Admin Fees           | $6,000   |
-
 | **Total Operating Budget**              | **$136,800** |
 
 
