@@ -2,6 +2,7 @@
 <!-- as per gitbook [page](https://gitbook.lexdao.net/untitled/grants-committee-charter/grant-proposals) -->
 
 <!-- these are not necessarily exclusive -->
+
 [x] Reimburse (2x💵150/hr to [wallet](https://etherscan.io/address/0x590D24003D5Ec516502db08E01421ba56a5cd611 
 ) $150+250/hr @dclark) - for USPTO [wordmark](https://discord.com/channels/682960432272506907/1223273416690237551) extension+analysis [^1]
 
@@ -190,3 +191,12 @@ Section 17-32-129 - Supplemental principles of law
 > ![IMPORTANT]
 > What risk factors will significantly impact cost/milestones
 ```
+
+### Resources
+Format of USPTO Guidelines
+
+
+
+
+
+
