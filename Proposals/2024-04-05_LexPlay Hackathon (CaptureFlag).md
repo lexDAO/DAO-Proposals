@@ -37,24 +37,26 @@ The target audience is decision makers on RetroPGF whilst beneficiaries are the 
 
 As per constitution, legal engineer as distinct skillset from _cyberlaw_ practice or _legal technologist_. Currently LexDAO is seen as niche and thus underappreciated (low profile in public goods funding). The #find-a-lawyer channel is getting much lower activity than during COVID and we haven't replaced the talent pool that spunout into KaliDAO.
 
-Community Trustmark [^1] an internationally recognised standard of competency and reliable expertise. Aspiration is within 5-7 years to have LEETH holders to be viewed within client's mind as akin to chartered practising accountant (CPA) and LexDAO the (sole?) leading certification agency (perhaps in conjunction with Token Engineering Community).
+Community Trustmark [^3] an internationally recognised standard of competency and reliable expertise. Aspiration is within 5-7 years to have LEETH holders to be viewed within client's mind as akin to chartered practising accountant (CPA) and LexDAO the (sole?) leading certification agency (perhaps in conjunction with Token Engineering Community).
 
 <details>
 <summary>Legal ownership of the international trademark</summary>
 1. USPTO registered trademark
+
 2. WIPO Madrid submission under LexDAO LLC
+
 3. Sale/license-back DAO LLC ↔ (Wyoming) LexDAO
 </details>
 
 <details>
-<summary>Incentive for mentorship leading to certification</summary>
-Law firms have summer internship and courts clerkship. As a practice, we should expose members to web3 processes via the mentor-apprenticeship model and peer recognition of skills. As we can't offer salary nor satisfaction (in administrating justice), we default to satisfaction in being on peripheral of emerging institutions (ECH standards formation) or exposure to thought leadership (Ross Ricardian contracts). We also need to point out the demand for H-shaped skills by cultivating a talent pipeline (which law firms can outsource tasks) or a safe haven for transitional members to build up solo-practices (rogue gallery) with priority referral in #find-a-lawyer channel. 
+<summary>Incentive for mentorship leading to certification</summary><br>
+Law firms have summer internship and courts clerkship. As a **practice**, we should expose members to web3 processes via the mentor-apprenticeship model and peer recognition of skills. As we can't offer salary nor significance (in administrating justice), we default to satisfaction in being on peripheral of emerging institutions (Ethereum Cat Herder standards formation) or exposure to thought leadership (Ross Ricardian contracts). We also need to point out the demand for H-shaped skills by cultivating a talent pipeline (which law firms can outsource tasks) or a safe haven for transitional members to build up solo-practices (rogue gallery) with priority referral in #find-a-lawyer channel. 
 </details>
 
 ### USPTO has refused LexDAO wordmark on grounds of being descriptive
 
 <details>
-<summary>xref USPTO commentary and RfQ</summary>
+<summary>xref USPTO commentary and RfQ</summary><br>
 - timeline is tight (6 Jun hard as extension already granted)
 - need sale/licenseback from Ross, 
 - ratification from LEETH holders (75% supramajority)
@@ -62,7 +64,7 @@ Law firms have summer internship and courts clerkship. As a practice, we should 
 
 ### Crowdsource response for 3(of 5) arms 
 <details>
-<summary>xref RfQ</summary>
+<summary>xref RfQ</summary><br>
 - easier to forcefeed legal philosophy to mid-age developers than teach coding;
 - arms race in AI acquisition will strand laggard law firms
 - seek sponsorship from existing law firms with Legal Engineering practice
@@ -71,8 +73,8 @@ Law firms have summer internship and courts clerkship. As a practice, we should 
 ### Master Hackathon: DUNA standing under Wyoming and TMEM 2(f) Collective Mark
 
 <details>
-<summary>xref WIPO </summary>
-Example of collective and multiple individual marks via unicode variations but font masking
+<summary>multiple individual marks via unicode variations but font masking</summary>
+<br>
 
 LexDAO (without fancy emoji) as a umbrella IP for arbitrary pods.
 Members obtaining LEETH-a| (1st gen bar-rogue, 2nd gen neo-class)
@@ -87,15 +89,15 @@ Members obtaining LEETH-a| (1st gen bar-rogue, 2nd gen neo-class)
 > This assumes that the benefits of being DUNA outweighs the detriments of remaining UNA
 
 
-## Proposal
-
 ### Task Breakdown
 Seeking EOI to participate as
+
 1. l'externs working for membership as one of 3 teams;
 2. Mentor to mock-play senior counsel on the BountyBoard;
 3. paid up member wishing to relook anew at constitution 0.2 -> constitution 0.3 
 
 ### Assumptions
+
 1. Need minimum of 6 l'externs, pref 3-5 per team = ~12-15 (no dropouts)
 2. At least 2-3 mentors willing to answer questions (remotely) over weekend
 3. The constitution is relatively straight-forward to convert (Member, Letter, Office)
