@@ -38,6 +38,7 @@ The target audience is decision makers on RetroPGF whilst beneficiaries are the 
 As per constitution, legal engineer as distinct skillset from _cyberlaw_ practice or _legal technologist_. Currently LexDAO is seen as niche and thus underappreciated (low profile in public goods funding). The #find-a-lawyer channel is getting much lower activity than during COVID and we haven't replaced the talent pool that spunout into KaliDAO.
 
 Community Trustmark [^3] an internationally recognised standard of competency and reliable expertise. Aspiration is within 5-7 years to have LEETH holders to be viewed within client's mind as akin to chartered practising accountant (CPA) and LexDAO the (sole?) leading certification agency (perhaps in conjunction with Token Engineering Community).
+![image](https://github.com/lexDAO/DAO-Proposals/assets/14944510/be835e2c-7f58-4706-beb3-6c6f19c5e71e)
 
 <details>
 <summary>Legal ownership of the international trademark</summary>
@@ -58,7 +59,9 @@ Law firms have summer internship and courts clerkship. As a **practice**, we sho
 <details>
 <summary>xref USPTO commentary and RfQ</summary><br>
 - timeline is tight (6 Jun hard as extension already granted)
-- need sale/licenseback from Ross, 
+	
+- need sale/licenseback from Ross,
+- 
 - ratification from LEETH holders (75% supramajority)
 </details>
 
@@ -66,7 +69,9 @@ Law firms have summer internship and courts clerkship. As a **practice**, we sho
 <details>
 <summary>xref RfQ</summary><br>
 - easier to forcefeed legal philosophy to mid-age developers than teach coding;
+	
 - arms race in AI acquisition will strand laggard law firms
+- 
 - seek sponsorship from existing law firms with Legal Engineering practice
 </details>
 
@@ -137,18 +142,6 @@ Profile existing LEETH holders and their skills tree as inspiration to members
 > [!TIP]
 > Just link to the the pertinent feedback/comment
 
-### Deliverables and Timeline
-
-1. 
-2.
-
-| Date | Deliverable |
-| ---- | ----------- |
-| 1Q24 | Commence    |
-
-> ![IMPORTANT]
-> What risk factors will significantly impact cost/milestones
-```
 Wyoming Statutes
 Title 17 - CORPORATIONS, PARTNERSHIPS AND ASSOCIATIONS
 Chapter 32 - WYOMING DECENTRALIZED UNINCORPORATED NONPROFIT ASSOCIATION ACT
@@ -193,3 +186,7 @@ Section 17-32-129 - Supplemental principles of law
 | 2Q2024 | Sale/License-back of LexDAO trademark     |
 | 4Q2024 | Grandfather in existing LEETH privileges and control of contract |
 | 2025 | In consultatation with members, the certification path for community trustmark |
+
+> ![IMPORTANT]
+> What risk factors will significantly impact cost/milestones
+```
