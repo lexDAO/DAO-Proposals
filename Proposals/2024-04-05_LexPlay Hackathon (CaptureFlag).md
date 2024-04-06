@@ -3,12 +3,11 @@
 
 <!-- these are not necessarily exclusive -->
 
-[x] Reimburse (2x💵150/hr to [wallet](https://etherscan.io/address/0x590D24003D5Ec516502db08E01421ba56a5cd611 
-) $150+250/hr @dclark) - for USPTO [wordmark](https://discord.com/channels/682960432272506907/1223273416690237551) extension+analysis [^1]
+[ ] Reimburse [^1]
 
-[x] Request (contingent amount (18x$150/hr + 9x$250/hr) against General counsel contingency) for estimated workup to submission (6 June) [^2]
+[ ] Request time critical items (requiring shipping) for early May hackathon to meet submission (due \\{color{red}6 June}}) [^2]
 
-[x] Raid () - [Hackathon TBD](https://github.com/drllau/hackathon-)
+[x] Raid () - [Hackathon early May](https://github.com/drllau/hackathon-)
 <!-- for non-raids you can ignore the details and just have summary lines -->
 
 [ ] Rollover (n/a)
@@ -26,8 +25,8 @@ The target audience is decision makers on RetroPGF whilst beneficiaries are the 
 
 | Raid role | Tentative squab |
 |-----------|-----------------|
-| Seeker    | @drllau (lvl5 scout) @dclark (lvl3 illusionist) |
-| ~~Sponsor~~ | (@committee)  suggest Talent/Press Gang|
+| Seeker    | @drllau (lvl5 scout) @dclark (lvl3 illusionist) @cimply (lvl 3+ paladin) |
+| Sponsor   | Talent/Press Gang|
 | Supervisor | ~~(@mentor)~~ due to strategic imperative, oversight by OC direct|
 | ~~0xSplits~~ | link to smart contract |
 <!-- remove the ~~ if any of the options apply, supervisor for (l)externs -->
