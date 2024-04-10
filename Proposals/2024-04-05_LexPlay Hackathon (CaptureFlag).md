@@ -140,7 +140,12 @@ Profile existing LEETH holders and their skills tree as inspiration to members
   + reduce risk - legal validator node for secondary personal trademark registry (delegated) and act as steward for *-engineering 
   + increase income - Master Hackathon to be reused for private DAOs to resettle in Wyoming (convergence)
   + constrain costs Tap into pool of hackers/programmers willing to work for membership to automate Ops (reduce burnout)
-
++ Scribe lvl 2.0 skill uplifting
+  + use of markdown (via googleDoc)
+  + transfer to hackMD (dual screen)
+  + push to github and progressively familiarise
+![image](https://github.com/lexDAO/DAO-Proposals/assets/14944510/34d8a39a-3fd1-4819-80ea-967e71193bac)
+ 
 > [!TIP]
 > Just link to the the pertinent feedback/comment
 
