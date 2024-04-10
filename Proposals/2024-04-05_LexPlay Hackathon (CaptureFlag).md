@@ -77,6 +77,8 @@ Law firms have summer internship and courts clerkship. As a **practice**, we sho
 - seek sponsorship from existing law firms with Legal Engineering practice
 </details>
 
+![image](https://github.com/lexDAO/DAO-Proposals/assets/14944510/02826c02-5c4a-4f85-9b3f-7f17f9ae485f)
+
 ### Master Hackathon: DUNA standing under Wyoming and TMEM 2(f) Collective Mark
 
 <details>
@@ -122,13 +124,7 @@ Seeking EOI to participate as
 	stewardship of github repos to come under LexDAO (copyright)
 	token subsidy wrt KaliDAO
 	Control rights over various lex-tokens to Ops as trustee 
-	Change of 2FA emails on various social media (and closure if Comms sos decide)
-
-Profile existing LEETH holders and their skills tree as inspiration to members
-	1 rogue portrait per month in newsletter
-	interview - perhaps a task for (l)externs in work for membership
-	ask to nominate best 3 work in legal engineering
-	custom-made LexDAO badge
+	Change of 2FA emails on various social media (and closure if Comms so decide)
 
 ### Outcomes + Key Results 
 
