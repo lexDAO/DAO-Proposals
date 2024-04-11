@@ -3,12 +3,14 @@
 
 <!-- these are not necessarily exclusive -->
 
-[ ] Reimburse [^1]
+[ ] Reimburse - IP acquisition costs 💵200 [^1] 
 
-[ ] Request time critical items (requiring shipping) for early May hackathon to meet submission (due \\{color{red}6 June}}) [^2]
+[ ] Request - 💵30 time critical items (requiring [shipping](https://www.barnesandnoble.com/w/code-lawrence-lessig/1125858146)) for early May hackathon to meet submission (due \\{color{red}6 June}}) [^2]
 
 [x] Raid () - [Hackathon early May](https://github.com/drllau/hackathon-)
 <!-- for non-raids you can ignore the details and just have summary lines -->
+
+[ ] Roadtrip (bDAO ¿TBC?) - establish relationship with other DAOs by secondment, exchange or UJV. Headsup that there may be an influx of members jumping ship
 
 [ ] Rollover (n/a)
 
@@ -25,8 +27,8 @@ The target audience is decision makers on RetroPGF whilst beneficiaries are the 
 
 | Raid role | Tentative squab |
 |-----------|-----------------|
-| Seeker    | @drllau (lvl5 scout) @dclark (lvl3 illusionist) @cimply (lvl 3+ paladin) |
-| Sponsor   | Talent/Press Gang|
+| Seeker    | @drllau (lvl5- scout) @dclark (lvl3- illusionist) @cimply (lvl 3+ paladin) |
+| Sponsor   | Talent/Press Gang |
 | Supervisor | ~~(@mentor)~~ due to strategic imperative, oversight by OC direct|
 | ~~0xSplits~~ | link to smart contract |
 <!-- remove the ~~ if any of the options apply, supervisor for (l)externs -->
@@ -75,6 +77,8 @@ Law firms have summer internship and courts clerkship. As a **practice**, we sho
 - seek sponsorship from existing law firms with Legal Engineering practice
 </details>
 
+![image](https://github.com/lexDAO/DAO-Proposals/assets/14944510/02826c02-5c4a-4f85-9b3f-7f17f9ae485f)
+
 ### Master Hackathon: DUNA standing under Wyoming and TMEM 2(f) Collective Mark
 
 <details>
@@ -103,7 +107,7 @@ Seeking EOI to participate as
 
 ### Assumptions
 
-1. Need minimum of 6 l'externs, pref 3-5 per team = ~12-15 (no dropouts)
+1. Need minimum of 6 l'externs, pref 3-5 per team = ~12-15 (no dropouts) max 50 (incl guests)
 2. At least 2-3 mentors willing to answer questions (remotely) over weekend
 3. The constitution is relatively straight-forward to convert (Member, Letter, Office)
 
@@ -120,13 +124,7 @@ Seeking EOI to participate as
 	stewardship of github repos to come under LexDAO (copyright)
 	token subsidy wrt KaliDAO
 	Control rights over various lex-tokens to Ops as trustee 
-	Change of 2FA emails on various social media (and closure if Comms sos decide)
-
-Profile existing LEETH holders and their skills tree as inspiration to members
-	1 rogue portrait per month in newsletter
-	interview - perhaps a task for (l)externs in work for membership
-	ask to nominate best 3 work in legal engineering
-	custom-made LexDAO badge
+	Change of 2FA emails on various social media (and closure if Comms so decide)
 
 ### Outcomes + Key Results 
 
@@ -138,7 +136,12 @@ Profile existing LEETH holders and their skills tree as inspiration to members
   + reduce risk - legal validator node for secondary personal trademark registry (delegated) and act as steward for *-engineering 
   + increase income - Master Hackathon to be reused for private DAOs to resettle in Wyoming (convergence)
   + constrain costs Tap into pool of hackers/programmers willing to work for membership to automate Ops (reduce burnout)
-
++ Scribe lvl 2.0 skill uplifting
+  + use of markdown (via googleDoc)
+  + transfer to hackMD (dual screen)
+  + push to github and progressively familiarise
+![image](https://github.com/lexDAO/DAO-Proposals/assets/14944510/34d8a39a-3fd1-4819-80ea-967e71193bac)
+ 
 > [!TIP]
 > Just link to the the pertinent feedback/comment
 
@@ -183,16 +186,26 @@ Section 17-32-129 - Supplemental principles of law
 
 | Date | Deliverable |
 | ---- | ----------- |
-| 2Q2024 | Sale/License-back of LexDAO trademark     |
-| 4Q2024 | Grandfather in existing LEETH privileges and control of contract |
-| 2025 | In consultatation with members, the certification path for community trustmark |
+| Apr 10 | Review for Ops |
+| Apr 12 | GC committee approval |
 
 > ![IMPORTANT]
-> What risk factors will significantly impact cost/milestones
-```
+> I've tried to keep this within the OC discretionary budget as I expect that additional hackathons may be run for corporate entities once the DUNA legislation becomes more settled.
+
 
 ### Resources
-Format of USPTO Guidelines
+
+|Amount | Purpose |
+|-------|---------|
+| 150	| Acquisition of Chippi NFT |
+| 20	| Acquisition of robot cartoon |
+| 30 	| Work4hire of various imagery (Act I) backdrop |
+|-------|---------|
+| 30	| Lessig book as prize for best mentor |
+| 
+
+[^1]: Acquistion of Chippi as theme for leXpunk style dungeon crawl
+[^2]: Missing a person to acquire Lessig's signature
 
 
 
