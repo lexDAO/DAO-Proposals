@@ -1,5 +1,6 @@
 # Executive Summary
 <!-- as per gitbook [page](https://github.com/lexDAO/gitbook/blob/main/gitbook/grants-committee-charter/grant-proposals.md -->
+
 <!-- these are not necessarily exclusive -->
 
 [x] Reimburse (~💵200 (incl gas) = [0.55 ETH](https://etherscan.io/address/0x85384C23D8ae724a094B5592C53AD4015bc94574))  
@@ -7,13 +8,16 @@
   - repaid via retrospectives [^3] charged to ƀDAO (/TBD\ conversion from $BANK to paralegal time)
 
 [x] Request - 💵30 time critical items (requiring [shipping](https://www.barnesandnoble.com/w/code-lawrence-lessig/1125858146))
-  - for 3rd May hackathon to meet submission (due \\{color{red}6 June}}) [^2]
-  - however, for cost-effectiveness, may order >1 book and massing by Lessig
-  - spare (signed) books deposited as [prizes]() for later hackathons
-  - @Kyler56 issued subquest delegating responsibility for POAPs _consulting_ @drllau and _informing_ OC(Goldenlady)
-  - GoldenLady at discretion, wikify the Design assets by issuing lvl1 CfP of the evidence compiled (legacy)
+  - for 3rd May hackathon to meet submission (due <span style="color:red">6 June</span>) [^2]
+  - however, for cost-effectiveness, may order >1 book and mass signing by Lessig
     
 [x] Raid (¿[TBA]??) - [Hackathon 3rd May](https://github.com/drllau/hackathon-) but a full costing will take ~2wk to be _formally voted_ ~26th Apr 
+  - spare (signed) books deposited as [prizes]() for later hackathons
+  - repurpose the discord server (1 wk 1st May - 6 May)
+  - borrow lets_play@??? email to standup template and worked example USPTO submission docs in hackMD
+  - @Kyler56 issued subquest delegating responsibility for POAPs _consulting_ @drllau and _informing_ OC(Goldenlady)
+  - /TBA\ GoldenLady at discretion, wikify the Design assets from the evidence compiled (legacy)
+
 <!-- for non-raids you can ignore the details and just have summary lines -->
 
 [x] Roadtrip (revenue+ve ƀDAO ¿[TBC](https://github.com/lexDAO/hackmd/blob/drllau-banklessDAO/Override/2024-04-09%201stResponder.md)?) - establish relationship with other DAOs by secondment, exchange or UJV. Headsup that there may be an influx of members jumping ship as iterating on a proposal which if accepted will result in LexDAO recovering costs [^3] with 2+ restrospective (xref Act I) to recover OC borrowing [^1]. 
@@ -32,12 +36,14 @@ The target audience is decision makers on RetroPGF whilst beneficiaries are the 
 
 | Raid role | Tentative squab | Notes |
 |-----------|-----------------|-------|
-| Seeker    | @drllau (lvl5- scout) @dclark (lvl?? illusionist) @cimply (lvl 2+ paladin) | Danielle hasn't formally acquiested |
+| LEETHodler| @drllau (lvl5- scout) @dclark (lvl?? illusionist) @cimply (lvl 2+ paladin) | Danielle hasn't formally acquiested |
 | Sponsor   | Talent/Press Gang (emergent but will put hackathon findings back to Comms/Edu) | Hackathons are situational/episoidic not periodic so unlike StudyClub |
 | Supervisor | ~~(@mentor)~~ due to strategic imperative, oversight by OC direct | uregency due to 1 month hard deadline |
 | ~~0xSplits~~ | link to smart contract - lend [^1] payback [^3] | The full project costings by /28 Apr/ |
 
 <!-- remove the ~~ if any of the options apply, supervisor for l'externs -->
+
+----
 
 # LexDAO as Community Trustmark
 
@@ -61,6 +67,7 @@ Community Trustmark [^3] an internationally recognised standard of competency an
 <summary>Incentive for mentorship leading to certification</summary><br>
 Law firms have summer internship and courts clerkship. As a **practice**, we should expose members to web3 processes via the mentor-apprenticeship model and peer recognition of skills. As we can't offer salary nor significance (in administrating justice), we default to satisfaction in being on peripheral of emerging institutions (Ethereum Cat Herder standards formation) or exposure to thought leadership (Ross Ricardian Kontracts, Gabe Sharpio META-LEX). We also need to point out the demand for H-shaped skills by cultivating a talent pipeline (which law firms can outsource tasks) or a safe haven for transitional members to build up solo-practices (rogue gallery) with priority referral in `#find-a-lawyer` channel. 
 </details>
+
 ### Crowdsource response for 3(of 5) arms 
 <details>
 <summary>xref RfQ</summary><br>
@@ -73,24 +80,8 @@ Law firms have summer internship and courts clerkship. As a **practice**, we sho
 
 ![image](https://github.com/lexDAO/DAO-Proposals/assets/14944510/02826c02-5c4a-4f85-9b3f-7f17f9ae485f)
 
-### Master Hackathon: DUNA standing under Wyoming and TMEM 2(f) Collective Mark
-
-<details>
-<summary>multiple individual marks via unicode variations but font masking</summary>
-<br>
-
-LexDAO (without fancy emoji) as a umbrella IP for arbitrary pods.
-Members obtaining LEETH-a| (1st gen bar-rogue, 2nd gen neo-class)
-
-- current good practice is a Panama combined foundation + company
-- functionally equivalent to DUNA + offshore "Office" (rep/proj Office)
-- Corporate Transparency Act does not apply to DUNA - run subsequent HOW2 reflag hackathons
-- opportunity to host conversation wrt grandfathering in LEETH and new skill-tree
-</details>
-
 > [!CAUTION]
 > This assumes that the benefits of being DUNA outweighs the detriments of remaining UNA
-
 
 ### Task Breakdown
 Seeking EOI to participate as
@@ -112,13 +103,7 @@ Seeking EOI to participate as
 ## Proposal
 
 ### Task Breakdown
-<!-- Graphic form is easier to grok, details in github project-->
-[Example](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
-	License-back grandfathers existing LEETHs ... Ross emeritus status? (Lvl 5 Cryptowizard) 
-	stewardship of github repos to come under LexDAO (copyright)
-	token subsidy wrt KaliDAO
-	Control rights over various lex-tokens to Ops as trustee 
-	Change of 2FA emails on various social media (and closure if Comms so decide)
+as per guthub project
 
 ### Outcomes + Key Results 
 
@@ -139,6 +124,7 @@ Seeking EOI to participate as
 > [!TIP]
 > Just link to the the pertinent feedback/comment
 
+````
 Wyoming Statutes
 Title 17 - CORPORATIONS, PARTNERSHIPS AND ASSOCIATIONS
 Chapter 32 - WYOMING DECENTRALIZED UNINCORPORATED NONPROFIT ASSOCIATION ACT
@@ -171,17 +157,21 @@ Section 17-32-126 - Winding up; termination
 Section 17-32-127 - Mergers
 Section 17-32-128 - Conversion of entities
 Section 17-32-129 - Supplemental principles of law
-```
+````
 
 > [!WARNING]
 > Certification of LEETH holders not accepted by industry, academia, etc
 
 ### Deliverables and Timeline
 
-| Date | Deliverable |
-| ---- | ----------- |
-| Apr 10 | Review for Ops |
+| Date | Deliverable | Recordat |
+| ---- | ----------- | ----- |
+| Apr 10 | Review for Ops | @cimply |
 | Apr 12 | GC committee approval |
+| Apr 26 | final approval of run-sheet and snapshot |
+| May 01 | EOI close for Mentors |
+| May 02 | EOI and tlBANK stake to participate for non-members |
+| May 03-05 | Hackathon |
 
 > ![IMPORTANT]
 > I've tried to keep this within the OC discretionary budget as I expect that additional hackathons may be run for corporate entities once the DUNA legislation becomes more settled.
@@ -196,7 +186,24 @@ Section 17-32-129 - Supplemental principles of law
 | 30 	| Work4hire of various imagery (Act I) backdrop |
 |-------|---------|
 | 30	| Lessig book as prize for best mentor |
-| 
+
+![replace with new convo](https://media.discordapp.net/attachments/956187738049224705/1220708359846494239/89._Saylors_Chair_Store.png?ex=662b9bc0&is=661926c0&hm=2388524732db1bfe7872961068caa09336c6ef204c060e80af2000b0908999aa&=&format=webp&quality=lossless&width=942&height=762)
+
+````
+mermaid
+sequenceDiagram
+participant LexDAO
+actor lets_plsy
+participant @drllau|Le✂DAO
+
+LexDAO->>@drllau|Le✂DAO: 0.55 ETH
+note to left of @drllau|Le✂DAO: Mint EOI, RfQ, CfP
+box transparent
+	drllau|Le✂DAO->lets_play: issue invites
+	lets_play-->LexDAO: mentors + members
+	lets_play-->lets_play: response to EOI/RfQ
+end
+````
 
 [^1]: Acquistion of Chippi as theme for leXpunk style dungeon crawl
 [^2]: Missing a person to acquire Lessig's signature
