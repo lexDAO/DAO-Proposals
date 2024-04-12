@@ -3,7 +3,7 @@
 
 <!-- these are not necessarily exclusive -->
 
-[x] Reimburse (~💵200 (incl gas) = [0.55 ETH](https://etherscan.io/address/0x85384C23D8ae724a094B5592C53AD4015bc94574))  
+[x] Reimburse (~💵200 (incl gas) = [0.055 ETH](https://etherscan.io/address/0x85384C23D8ae724a094B5592C53AD4015bc94574))  
   - IP acquisition costs  [^1]  to be borrowed against OC discretionary funds and 
   - repaid via retrospectives [^3] charged to ƀDAO (/TBD\ conversion from $BANK to paralegal time)
 
