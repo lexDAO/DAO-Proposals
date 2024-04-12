@@ -1,37 +1,43 @@
 # Executive Summary
-<!-- as per gitbook [page](https://gitbook.lexdao.net/untitled/grants-committee-charter/grant-proposals) -->
-
+<!-- as per gitbook [page](https://github.com/lexDAO/gitbook/blob/main/gitbook/grants-committee-charter/grant-proposals.md -->
 <!-- these are not necessarily exclusive -->
 
-[ ] Reimburse - IP acquisition costs 💵200 [^1] 
+[x] Reimburse (~💵200 (incl gas) = [0.55 ETH](https://etherscan.io/address/0x85384C23D8ae724a094B5592C53AD4015bc94574))  
+	- IP acquisition costs  [^1]  to be borrowed against OC discretionary funds and 
+ 	- repaid via retrospectives [^3] charged to ƀDAO (/TBD\ conversion from $BANK to paralegal time)
 
-[ ] Request - 💵30 time critical items (requiring [shipping](https://www.barnesandnoble.com/w/code-lawrence-lessig/1125858146)) for early May hackathon to meet submission (due \\{color{red}6 June}}) [^2]
-
-[x] Raid () - [Hackathon early May](https://github.com/drllau/hackathon-)
+[x] Request - 💵30 time critical items (requiring [shipping](https://www.barnesandnoble.com/w/code-lawrence-lessig/1125858146))
+	- for 3rd May hackathon to meet submission (due \\{color{red}6 June}}) [^2]
+	- however, for cost-effectiveness, may order >1 book and massing by Lessig
+ 	- spare (signed) books deposited as [prizes]() for later hackathons
+  	- @Kyler56 issued subquest delegating responsibility for POAPs _consulting_ @drllau and _informing_ OC(Goldenlady)
+   	- GoldenLady at discretion, code
+    
+[x] Raid (¿[TBA]??) - [Hackathon 3rd May](https://github.com/drllau/hackathon-) but a full costing will take ~2wk to be _formally voted_ ~26th Apr 
 <!-- for non-raids you can ignore the details and just have summary lines -->
 
-[ ] Roadtrip (bDAO ¿TBC?) - establish relationship with other DAOs by secondment, exchange or UJV. Headsup that there may be an influx of members jumping ship
+[x] Roadtrip (revenue+ve ƀDAO ¿[TBC](https://github.com/lexDAO/hackmd/blob/drllau-banklessDAO/Override/2024-04-09%201stResponder.md)?) - establish relationship with other DAOs by secondment, exchange or UJV. Headsup that there may be an influx of members jumping ship as iterating on a proposal which if accepted will result in LexDAO recovering costs [^3] with 2+ restrospective (xref Act I) to recover OC borrowing [^1]. 
 
-[ ] Rollover (n/a)
+[ ] Rollover (n/a) for quarterly budgets
 
 <details>
 <summary>USPTO has made fundamental error in facts and flawed reasoning in law</summary>
 
 ![image](https://github.com/lexDAO/LexDAO-Official-Policies/assets/14944510/08edc08e-0d21-4378-9567-17ac7a5ca93a)
 
-
 The target audience is decision makers on RetroPGF whilst beneficiaries are the public at large. Hence their search domain ignored the cryptopunk subculture where LexDAO has symbolic, suggestive, and functional traits.
 ![image](https://github.com/lexDAO/DAO-Proposals/assets/14944510/05bb959d-b1ec-41df-a364-4a85659cbf9b)
 
 </details>
 
-| Raid role | Tentative squab |
-|-----------|-----------------|
-| Seeker    | @drllau (lvl5- scout) @dclark (lvl3- illusionist) @cimply (lvl 3+ paladin) |
-| Sponsor   | Talent/Press Gang |
-| Supervisor | ~~(@mentor)~~ due to strategic imperative, oversight by OC direct|
-| ~~0xSplits~~ | link to smart contract |
-<!-- remove the ~~ if any of the options apply, supervisor for (l)externs -->
+| Raid role | Tentative squab | Notes |
+|-----------|-----------------|-------|
+| Seeker    | @drllau (lvl5- scout) @dclark (lvl?? illusionist) @cimply (lvl 2+ paladin) | Danielle hasn't formally acquiested |
+| Sponsor   | Talent/Press Gang (emergent but will put hackathon findings back to Comms/Edu) | Hackathons are situational/episoidic not periodic so unlike StudyClub |
+| Supervisor | ~~(@mentor)~~ due to strategic imperative, oversight by OC direct | uregency due to 1 month hard deadline |
+| ~~0xSplits~~ | link to smart contract - lend [^1] payback [^3] | The full project costings by /28 Apr/ |
+
+<!-- remove the ~~ if any of the options apply, supervisor for l'externs -->
 
 # LexDAO as Community Trustmark
 
@@ -44,7 +50,7 @@ Community Trustmark [^3] an internationally recognised standard of competency an
 
 <details>
 <summary>Legal ownership of the international trademark</summary>
-1. USPTO registered trademark
+1. USPTO registered trademark - @dclark tasked to issue 3x RꟻQ
 
 2. WIPO Madrid submission under LexDAO LLC
 
@@ -53,20 +59,8 @@ Community Trustmark [^3] an internationally recognised standard of competency an
 
 <details>
 <summary>Incentive for mentorship leading to certification</summary><br>
-Law firms have summer internship and courts clerkship. As a **practice**, we should expose members to web3 processes via the mentor-apprenticeship model and peer recognition of skills. As we can't offer salary nor significance (in administrating justice), we default to satisfaction in being on peripheral of emerging institutions (Ethereum Cat Herder standards formation) or exposure to thought leadership (Ross Ricardian contracts). We also need to point out the demand for H-shaped skills by cultivating a talent pipeline (which law firms can outsource tasks) or a safe haven for transitional members to build up solo-practices (rogue gallery) with priority referral in #find-a-lawyer channel. 
+Law firms have summer internship and courts clerkship. As a **practice**, we should expose members to web3 processes via the mentor-apprenticeship model and peer recognition of skills. As we can't offer salary nor significance (in administrating justice), we default to satisfaction in being on peripheral of emerging institutions (Ethereum Cat Herder standards formation) or exposure to thought leadership (Ross Ricardian Kontracts, Gabe Sharpio META-LEX). We also need to point out the demand for H-shaped skills by cultivating a talent pipeline (which law firms can outsource tasks) or a safe haven for transitional members to build up solo-practices (rogue gallery) with priority referral in `#find-a-lawyer` channel. 
 </details>
-
-### USPTO has refused LexDAO wordmark on grounds of being descriptive
-
-<details>
-<summary>xref USPTO commentary and RfQ</summary><br>
-- timeline is tight (6 Jun hard as extension already granted)
-	
-- need sale/licenseback from Ross,
-- 
-- ratification from LEETH holders (75% supramajority)
-</details>
-
 ### Crowdsource response for 3(of 5) arms 
 <details>
 <summary>xref RfQ</summary><br>
