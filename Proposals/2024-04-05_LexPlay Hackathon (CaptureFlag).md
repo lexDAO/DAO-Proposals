@@ -3,15 +3,15 @@
 <!-- these are not necessarily exclusive -->
 
 [x] Reimburse (~💵200 (incl gas) = [0.55 ETH](https://etherscan.io/address/0x85384C23D8ae724a094B5592C53AD4015bc94574))  
-	- IP acquisition costs  [^1]  to be borrowed against OC discretionary funds and 
- 	- repaid via retrospectives [^3] charged to ƀDAO (/TBD\ conversion from $BANK to paralegal time)
+  - IP acquisition costs  [^1]  to be borrowed against OC discretionary funds and 
+  - repaid via retrospectives [^3] charged to ƀDAO (/TBD\ conversion from $BANK to paralegal time)
 
 [x] Request - 💵30 time critical items (requiring [shipping](https://www.barnesandnoble.com/w/code-lawrence-lessig/1125858146))
-	- for 3rd May hackathon to meet submission (due \\{color{red}6 June}}) [^2]
-	- however, for cost-effectiveness, may order >1 book and massing by Lessig
- 	- spare (signed) books deposited as [prizes]() for later hackathons
-  	- @Kyler56 issued subquest delegating responsibility for POAPs _consulting_ @drllau and _informing_ OC(Goldenlady)
-   	- GoldenLady at discretion, code
+  - for 3rd May hackathon to meet submission (due \\{color{red}6 June}}) [^2]
+  - however, for cost-effectiveness, may order >1 book and massing by Lessig
+  - spare (signed) books deposited as [prizes]() for later hackathons
+  - @Kyler56 issued subquest delegating responsibility for POAPs _consulting_ @drllau and _informing_ OC(Goldenlady)
+  - GoldenLady at discretion, wikify the Design assets by issuing lvl1 CfP of the evidence compiled (legacy)
     
 [x] Raid (¿[TBA]??) - [Hackathon 3rd May](https://github.com/drllau/hackathon-) but a full costing will take ~2wk to be _formally voted_ ~26th Apr 
 <!-- for non-raids you can ignore the details and just have summary lines -->
