@@ -2,12 +2,12 @@
 <!-- as per gitbook [page](https://gitbook.lexdao.net/untitled/grants-committee-charter/grant-proposals) -->
 
 <!-- these are not necessarily exclusive -->
-[x] Reimburse (2x💵150/hr to [wallet](https://etherscan.io/address/0x590D24003D5Ec516502db08E01421ba56a5cd611 
+[ ] Reimburse (2x💵150/hr to [wallet](https://etherscan.io/address/0x590D24003D5Ec516502db08E01421ba56a5cd611 
 ) $150+250/hr @dclark) - for USPTO [wordmark](https://discord.com/channels/682960432272506907/1223273416690237551) extension+analysis [^1]
 
-[x] Request (contingent amount (18x$150/hr + 9x$250/hr) against General counsel contingency) for estimated workup to submission (6 June) [^2]
+[ ] Request (contingent amount (18x$150/hr + 9x$250/hr) against General counsel contingency) for estimated workup to submission (6 June) [^2]
 
-[x] Raid () - [Hackathon TBD](https://github.com/drllau/hackathon-)
+[x] Raid () - [Hackathon TBD](https://github.com/drllau/hackathon-) Hypothecate against the budget for counsel ... after studying the TPEM it looks like to apply for concurrent use, it needs to go to the PTAB (appeal board) which sounds expensive  so until I get expert advice will like to hold gunpowder dry
 <!-- for non-raids you can ignore the details and just have summary lines -->
 
 [ ] Rollover (n/a)
