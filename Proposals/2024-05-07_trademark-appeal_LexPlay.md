@@ -34,10 +34,10 @@
 | 2 | Mindmap of USPTO arguments | [1 pg](https://github.com/lexDAO/hackathon/blob/master/2024%2FUSPTO.mm) |
 | 2 | Crafting EOI, RfQ, CfP, ADM for tasks breakdown | 5 APNGs |
 | 2 | Preparation and presentation of tasks | audio |
-| | | |
-| 20| Exhibit A - Timeline of events | [.md]() |
-|   | Exhibit B - specimens for each TID | [.md]() |
-|   | Exhibit C - legal entity | [.md]() |
-|   | Exhibit E - suggestive (LEX acryonym) | [.md]() |
-|   | Exhibit F - secondary (supplementary evidence) | [.md]() |
+| | | evidence.csv |
+| 20| Exhibit A - Timeline of events | [.md](https://github.com/lexDAO/trademark-filing/blob/main/Exhibit%20A%20-%20Event%20Timeline.md) |
+|   | Exhibit B - specimens for each TID | [.md](https://github.com/lexDAO/trademark-filing/blob/main/Exhibit%20B%20-%20TID%20by%20earliest%20date.md) |
+|   | Exhibit C - legal entity | [.md](https://github.com/lexDAO/trademark-filing/blob/main/Exhibit%20C%20-%20Communications%20%26%20Partnership.md) |
+|   | Exhibit E - suggestive (LEX acryonym) | [.md](https://github.com/lexDAO/trademark-filing/blob/main/Exhibit%20E%20-%20Suggestive.md) |
+|   | Exhibit F - secondary (supplementary evidence) | [.md](https://github.com/lexDAO/trademark-filing/blob/main/Exhibit%20F%20-%203rd%20Party.md) |
 
