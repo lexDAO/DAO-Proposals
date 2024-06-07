@@ -3,9 +3,9 @@
 
 <!-- these are not necessarily exclusive -->
 [x] Reimburse 
-	1. Eliana ???
- 	2. @drllau (USD 2,250) 30x💵@150/hr*50% to [wallet](https://etherscan.io/address/0x590D24003D5Ec516502db08E01421ba56a5cd611)
-	3. @dclarklaw (USD ???) = $150+???@150/hr @dclark) - for USPTO [wordmark](https://discord.com/channels/682960432272506907/1223273416690237551) extension+analysis [^1]
+1. Eliana ???
+2. @drllau (USD 2,250) 30x💵@150/hr*50% to [wallet](https://etherscan.io/address/0x590D24003D5Ec516502db08E01421ba56a5cd611)
+3. @dclarklaw (USD ???) = $150 (fee) +???@150/hr @dclark) - for USPTO [wordmark](https://discord.com/channels/682960432272506907/1223273416690237551) extension+analysis [^1]
 
 [ ] Request (contingent amount against General counsel contingency) for collective membership mark (Nov) [^2]
 
@@ -27,8 +27,17 @@
 
 ### Deliverables and Timeline
 
-| Date | Deliverable |
-| ---- | ----------- |
-| 2Q2024 |  |
-| 4Q2024 | Grandfather in existing LEETH privileges and control of contract |
-| 2025 | In consultatation with members, the certification path for community trustmark |
+| Hours | Deliverable | Notes |
+| ---- | ----------- | ----- |
+| 2 | USPTO response and analysis | ~6 pgs |
+| 2 | Request for Quote for rebuttal | 1 pg |
+| 2 | Mindmap of USPTO arguments | [1 pg](https://github.com/lexDAO/hackathon/blob/master/2024%2FUSPTO.mm) |
+| 2 | Crafting EOI, RfQ, CfP, ADM for tasks breakdown | 5 APNGs |
+| 2 | Preparation and presentation of tasks | audio |
+| | | |
+| 20| Exhibit A - Timeline of events | [.md]() |
+|   | Exhibit B - specimens for each TID | [.md]() |
+|   | Exhibit C - legal entity | [.md]() |
+|   | Exhibit E - suggestive (LEX acryonym) | [.md]() |
+|   | Exhibit F - secondary (supplementary evidence) | [.md]() |
+
