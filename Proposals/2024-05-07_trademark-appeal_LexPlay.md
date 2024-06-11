@@ -52,6 +52,8 @@ But advice from @Ellie to split the rebuttal into simple then collective members
 | | Co-working space for after-hour timezone $1 USD = $150 AUD | [$135](https://drive.google.com/drive/mobile/folders/1tVzu6gXCaWFO6TX5LmIpMGOOSzzJZDg5/11Rh6AOVMxsH8Y032DNNsrzP2H8W3U0vv?sort=13&direction=a) |
 | | Tablet to enable letsplay@lexdao.org to run in parallel | [$100](https://drive.google.com/drive/mobile/folders/1tVzu6gXCaWFO6TX5LmIpMGOOSzzJZDg5/11Rh6AOVMxsH8Y032DNNsrzP2H8W3U0vv?sort=13&direction=a) |
 
+Note the tablet has all the passkeys & auth codes so can be considered property of LexDAO to implement the bot letsplay.
+
 | Hours | Deliverable | Notes |
 | ---- | ----------- | ----- |
 |  | USPTO extension fee | $150 |
