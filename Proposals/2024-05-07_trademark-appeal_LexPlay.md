@@ -7,7 +7,7 @@
 2. @drllau (USD 2,460) 30x@150/hr*50% +235 to [wallet](https://etherscan.io/address/0x590D24003D5Ec516502db08E01421ba56a5cd611)
 3. @dclarklaw (USD ???) = $150 (admin fee) +???@150/hr @dclark) - for USPTO [wordmark](https://discord.com/channels/682960432272506907/1223273416690237551) extension+analysis [^1]
 
-[ ] Request ($500 contingent amount against General counsel contingency) for collective membership mark (Nov) [^2]
+[ ] Request ($500 contingent amount against General counsel) for collective membership mark (Nov) [^2]
 
 [ ] Raid ()
  
@@ -28,7 +28,7 @@ But advice from @Ellie to split the rebuttal into simple then collective members
 - ~~0xSplits~~ - link to smart contract
 <!-- remove the ~~ if any of the options apply, supervisor for (l)externs -->
 
-### Deliverables and Timeline
+### ^1 Deliverables and Timeline
 
 | Hours | Deliverable | Notes |
 | ---- | ----------- | ----- |
@@ -60,7 +60,7 @@ Note the tablet has all the passkeys & auth codes so can be considered property 
 | ??? | Briefing drllau | LexDAO | |
 | ??? | Request for Quote | mockup of outsourcing |
 
-Residual costs 
+### ^2 Residual costs 
 - submission is a collective membership mark 
 - additional classes 
 - overseas markets (if invoicing in EUR/ ... )
