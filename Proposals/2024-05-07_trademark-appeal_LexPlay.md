@@ -7,7 +7,7 @@
 2. @drllau (USD 2,460) 30x@150/hr*50% +235 to [wallet](https://etherscan.io/address/0x590D24003D5Ec516502db08E01421ba56a5cd611)
 3. @dclarklaw (USD ???) = $150 (admin fee) +???@150/hr @dclark) - for USPTO [wordmark](https://discord.com/channels/682960432272506907/1223273416690237551) extension+analysis [^1]
 
-[ ] Request (contingent amount against General counsel contingency) for collective membership mark (Nov) [^2]
+[ ] Request ($500 contingent amount against General counsel contingency) for collective membership mark (Nov) [^2]
 
 [ ] Raid ()
  
