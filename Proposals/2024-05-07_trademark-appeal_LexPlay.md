@@ -4,7 +4,7 @@
 <!-- these are not necessarily exclusive -->
 [x] Reimburse 
 1. @Ellie (USD ???)
-2. @drllau (USD 2,250) 30x💵@150/hr*50% to [wallet](https://etherscan.io/address/0x590D24003D5Ec516502db08E01421ba56a5cd611)
+2. @drllau (USD 2,460) 30x@150/hr*50% +235 to [wallet](https://etherscan.io/address/0x590D24003D5Ec516502db08E01421ba56a5cd611)
 3. @dclarklaw (USD ???) = $150 (admin fee) +???@150/hr @dclark) - for USPTO [wordmark](https://discord.com/channels/682960432272506907/1223273416690237551) extension+analysis [^1]
 
 [ ] Request (contingent amount against General counsel contingency) for collective membership mark (Nov) [^2]
@@ -47,9 +47,8 @@ But advice from @Ellie to split the rebuttal into simple then collective members
 |   | Exhibit C draft - legal entity | [.md](https://github.com/lexDAO/trademark-filing/blob/main/Exhibit%20C%20-%20Communications%20%26%20Partnership.md) |
 |   | Exhibit E draft - suggestive (LEX acryonym) | [.md](https://github.com/lexDAO/trademark-filing/blob/main/Exhibit%20E%20-%20Suggestive.md) |
 |   | Exhibit F draft - secondary (3rd party usage) | [.md](https://github.com/lexDAO/trademark-filing/blob/main/Exhibit%20F%20-%203rd%20Party.md) |
-| | | |
-|  | Lenovo Tab M9 [receipt]() | Needed to operate hackathon |
-| | Co-working space for after-hour timezone $1 USD = | 
+| | All files in Hackathon/Expenses | |
+| | Co-working space for after-hour timezone $1 USD = $150 AUD | [$135](https://drive.google.com/drive/mobile/folders/1tVzu6gXCaWFO6TX5LmIpMGOOSzzJZDg5/11Rh6AOVMxsH8Y032DNNsrzP2H8W3U0vv?sort=13&direction=a) |
 | | Tablet to enable letsplay@lexdao.org to run in parallel | [$100](https://drive.google.com/drive/mobile/folders/1tVzu6gXCaWFO6TX5LmIpMGOOSzzJZDg5/11Rh6AOVMxsH8Y032DNNsrzP2H8W3U0vv?sort=13&direction=a) |
 
 | Hours | Deliverable | Notes |
