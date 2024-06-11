@@ -65,4 +65,4 @@ Note the tablet has all the passkeys & auth codes so can be considered property 
 - additional classes 
 - overseas markets (if invoicing in EUR/ ... )
 
-[ ] [WIPO account](https://www3.wipo.int/currentaccount/public/index.xhtml) vs credit-card
+[ ] [WIPO account](https://www3.wipo.int/currentaccount/public/index.xhtml) but need >200 CHF balance vs credit-card
