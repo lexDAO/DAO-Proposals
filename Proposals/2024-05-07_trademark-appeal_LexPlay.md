@@ -57,3 +57,8 @@ But advice from @Ellie to split the rebuttal into simple then collective members
 |  | USPTO extension fee | $150 |
 | ??? | Briefing drllau | LexDAO | |
 | ??? | Request for Quote | mockup of outsourcing |
+
+Residual costs 
+- submission is a collective membership mark 
+- additional classes 
+- overseas markets (if invoicing in EUR/ ... )
