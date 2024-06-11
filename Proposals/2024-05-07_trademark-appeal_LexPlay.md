@@ -49,7 +49,8 @@ But advice from @Ellie to split the rebuttal into simple then collective members
 |   | Exhibit F draft - secondary (3rd party usage) | [.md](https://github.com/lexDAO/trademark-filing/blob/main/Exhibit%20F%20-%203rd%20Party.md) |
 | | | |
 |  | Lenovo Tab M9 [receipt]() | Needed to operate hackathon |
-| | | | Co-working space for after-hour timezone |
+| | Co-working space for after-hour timezone $1 USD = | 
+| | Tablet to enable letsplay@lexdao.org to run in parallel | [$100](https://drive.google.com/drive/mobile/folders/1tVzu6gXCaWFO6TX5LmIpMGOOSzzJZDg5/11Rh6AOVMxsH8Y032DNNsrzP2H8W3U0vv?sort=13&direction=a) |
 
 | Hours | Deliverable | Notes |
 | ---- | ----------- | ----- |
