@@ -64,3 +64,5 @@ Note the tablet has all the passkeys & auth codes so can be considered property 
 - submission is a collective membership mark 
 - additional classes 
 - overseas markets (if invoicing in EUR/ ... )
+
+[ ] WIPO account vs credit-card
