@@ -37,17 +37,18 @@ But advice from @Ellie to split the rebuttal into simple then collective members
 | Hours | Deliverable | Notes |
 | ---- | ----------- | ----- |
 | 2 | USPTO response and analysis | ~6 pgs |
-| 2 | Request for Quote for rebuttal | 1 pg |
+| 2 | Request for Quote for rebuttal | [1 pg] |
 | 2 | Mindmap of USPTO arguments | [1 pg](https://github.com/lexDAO/hackathon/blob/master/2024%2FUSPTO.mm) |
 | 2 | Crafting EOI, RfQ, CfP, ADM for tasks breakdown | 5 APNGs |
-| 2 | Preparation and presentation of tasks | audio |
-| | | evidence.csv |
+| 2 | Seeking alternative competent IP lawyers and spec work | [1 pg] |
+| n/a | Preparation and presentation of tasks | audio |
+| | Following collected includes the 2nd phase | [evidence.csv] |
 | 20| Exhibit A draft - Timeline of events | [.md](https://github.com/lexDAO/trademark-filing/blob/main/Exhibit%20A%20-%20Event%20Timeline.md) |
 |   | Exhibit B draft - specimens for each TID | [.md](https://github.com/lexDAO/trademark-filing/blob/main/Exhibit%20B%20-%20TID%20by%20earliest%20date.md) |
 |   | Exhibit C draft - legal entity | [.md](https://github.com/lexDAO/trademark-filing/blob/main/Exhibit%20C%20-%20Communications%20%26%20Partnership.md) |
 |   | Exhibit E draft - suggestive (LEX acryonym) | [.md](https://github.com/lexDAO/trademark-filing/blob/main/Exhibit%20E%20-%20Suggestive.md) |
 |   | Exhibit F draft - secondary (3rd party usage) | [.md](https://github.com/lexDAO/trademark-filing/blob/main/Exhibit%20F%20-%203rd%20Party.md) |
-| | All files in Hackathon/Expenses | |
+| | All following files in Hackathon/Expenses | |
 | | Co-working space for after-hour timezone $1 USD = $150 AUD | [$135](https://drive.google.com/drive/mobile/folders/1tVzu6gXCaWFO6TX5LmIpMGOOSzzJZDg5/11Rh6AOVMxsH8Y032DNNsrzP2H8W3U0vv?sort=13&direction=a) |
 | | Tablet to enable letsplay@lexdao.org to run in parallel | [$100](https://drive.google.com/drive/mobile/folders/1tVzu6gXCaWFO6TX5LmIpMGOOSzzJZDg5/11Rh6AOVMxsH8Y032DNNsrzP2H8W3U0vv?sort=13&direction=a) |
 
